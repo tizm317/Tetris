@@ -36,5 +36,6 @@ C++ 과 Cocos2d-x 를 이용하여 제작한 테트리스
 - 고스트 기능 : 하단 그림자 미리보기
 - 라인 체크 및 제거
  
- 
-**[게임영상] : https://www.youtube.com/watch?v=uxivK7ykagA&ab_channel=%EC%9D%B4%ED%9D%90%EC%97%89**
+**[개발 기록] : https://bush-wolfsbane-e95.notion.site/108b637c1bee4976a5e0ce93270104f0?pvs=4**
+
+**[게임 영상] : https://www.youtube.com/watch?v=uxivK7ykagA&ab_channel=%EC%9D%B4%ED%9D%90%EC%97%89**
